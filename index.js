@@ -2,7 +2,7 @@ const {json} = require("express");
 const express = require("express");
 const app = express();
 
-let base_url = "34.224.41.168";
+let base_url = "52.201.244.22";
 
 app.use(json());
 
